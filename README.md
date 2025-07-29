@@ -21,7 +21,7 @@
 
 Here are some of my highlighted projects:
 
-- [interactive-infinte-slider ](https://github.com/YuvrajSingh-1212/inline-code-editor)
+- [interactive-infinte-slider ](https://github.com/YuvrajSingh-1212/interactive-infinte-slider)
 - [Data Breach Alert System](https://github.com/YuvrajSingh-1212/data-breach-alert)
 - [Portfolio Website](#)
 - [C++ DSA Practice](#)
