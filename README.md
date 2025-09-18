@@ -28,15 +28,6 @@ Here are some of my highlighted projects:
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YuvrajSingh-1212&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuvrajSingh-1212&layout=compact&theme=radical" width="48%" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 - 🔗 LinkedIn:((https://www.linkedin.com/in/yuvraj-singh-b117b5263/))
